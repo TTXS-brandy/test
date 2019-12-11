@@ -1,5 +1,5 @@
 <template>
-	<div>122222222</div>
+	<div>122222222khan</div>
 </template>
 <script>
 	import getOpt from './opt'
